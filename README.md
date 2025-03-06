@@ -1,4 +1,4 @@
-<h1>Power BI & SQL Data Analysis</h1>
+<h1>Power BI & SQL - PIZZA SALES DASHBOARD</h1>
 
 <h2>Description</h2>
 This project showcases data analysis and visualization using SQL and Power BI. The dataset was processed and analyzed using SQL queries, and insights were visualized through interactive Power BI dashboards.
@@ -20,31 +20,34 @@ This project showcases data analysis and visualization using SQL and Power BI. T
 
 <p align="center">
 Sales Performance: <br/>
-<img src="https://imgur.com/a/aqvXeER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Eqnrqkz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Best and Worst Pizza Seller:  <br/>
+<img src="https://i.imgur.com/dfwOAGf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<h2>SQL Script:</h2>
+
+<p align="center">
+KPI's: <br/>
+<img src="https://i.imgur.com/Bzrsj7m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+SQL Query output<br/>
+<img src="https://i.imgur.com/Ub1sQBv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/qBKpyQW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/NIawLwQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/rtbJ9pL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/TIOmgSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FcAznT5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 </p>
 
 <!--
