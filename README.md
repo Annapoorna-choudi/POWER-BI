@@ -19,8 +19,8 @@ This project showcases data analysis and visualization using SQL and Power BI. T
 <h2>Dashboard:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sales Performance: <br/>
+<img src="https://imgur.com/a/aqvXeER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
