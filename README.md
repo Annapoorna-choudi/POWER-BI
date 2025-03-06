@@ -3,6 +3,16 @@
 <h2>Description</h2>
 This project showcases data analysis and visualization using SQL and Power BI. The dataset was processed and analyzed using SQL queries, and insights were visualized through interactive Power BI dashboards.
 <br />
+Key Features:
+<br />
+✅ SQL Data Processing: Data extraction, cleaning, and transformation using SQL queries.
+<br />
+✅ Power BI Visualization: Interactive dashboards to analyze trends and key business metrics.
+<br />
+✅ Data Validation: Cross-checking results with SQL to ensure accuracy before visualization.
+<br />
+✅ Business Insights: Identifying key trends, anomalies, and performance indicators.
+<br />
 
 
 <h2>Tools & Technologies Used</h2>
@@ -11,10 +21,6 @@ This project showcases data analysis and visualization using SQL and Power BI. T
 - <b>Power BI (for reporting and visualization)</b>
 - <b>Excel/CSV </b>
 
-
-<h2>Environments Used </h2>
-
-- <b>Microsoft Power BI</b>
 
 <h2>Dashboard:</h2>
 
